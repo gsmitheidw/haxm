@@ -1,0 +1,1 @@
+& "$env:ProgramFiles\Intel\HAXM\uninstall.exe" /S
