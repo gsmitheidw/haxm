@@ -18,4 +18,4 @@ $packageArgs = @{
 
 Install-ChocolateyZipPackage @packageArgs
 $packageArgs.file = Join-Path -Path $toolsDir -ChildPath $setupName
-Install-ChocolateyPackage @packageArgs 
+Install-ChocolateyInstallPackage @packageArgs 
