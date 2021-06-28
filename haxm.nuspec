@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/intel/haxm</projectUrl>
     <iconUrl>https://github.com/intel/haxm/raw/master/Installer/res/haxm_logo.ico</iconUrl>
     <licenseUrl>https://github.com/intel/haxm/blob/master/LICENSE</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/intel/haxm</projectSourceUrl>
     <docsUrl>https://github.com/intel/haxm/wiki</docsUrl>
     <bugTrackerUrl>https://github.com/intel/haxm/issues</bugTrackerUrl>
