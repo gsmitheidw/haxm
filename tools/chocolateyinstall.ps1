@@ -13,7 +13,7 @@ $packageArgs = @{
   checksum       = '18DFC2EDF3968ACF20AEA4CFFDB2BDDF7C448DCA03E0B13DDF4FDF039E469A5A'
   checksumType   = 'sha256'
   silentArgs 	 = '/S'          
-  validExitCodes = @(0) 
+  validExitCodes = @(0, 3) 
 }
 
 Install-ChocolateyZipPackage @packageArgs
