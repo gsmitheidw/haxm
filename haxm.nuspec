@@ -8,7 +8,7 @@
     <title>haxm</title>
     <authors>Intel Corporation</authors>
     <projectUrl>https://github.com/intel/haxm</projectUrl>
-    <iconUrl>https://github.com/intel/haxm/raw/master/Installer/res/haxm_logo.ico</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gsmitheidw/haxm@master/haxm.png</iconUrl>
     <licenseUrl>https://github.com/intel/haxm/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/intel/haxm</projectSourceUrl>
