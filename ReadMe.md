@@ -7,7 +7,7 @@ https://community.chocolatey.org/packages/haxm/
 
 ### To localise ###
 Code:
-```
+```powershell
 # clone repo from here:
 git clone https://github.com/gsmitheidw/haxm.git
 # edit the tools\ChocolateyInstall.ps1 to change the url to local repo/smb share for hosting the zip
