@@ -5,6 +5,12 @@ This is a recipe for creating a Chocoatey nuget package for Intel HAXM:
 
 https://community.chocolatey.org/packages/haxm/
 
+### Discontinued HAXM
+
+Intel has discontinued HAXM. I'll leave this in maintenace mode pending 
+any important changes required, otherwise this will eventually be archived too.
+
+
 ### To localise ###
 Code:
 ```powershell
